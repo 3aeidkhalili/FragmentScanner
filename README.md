@@ -31,3 +31,10 @@ bash <(curl -fsSL https://raw.githubusercontent.com/3aeidkhalili/FragmentScanner
 همچنین میتونید کانفیگ فرگمنت دار خودتون رو در فایل config.json ذخیره کنید و فقط با گزینه 2 اسکن انجام بدید.
 
 این اسکریپت همچنین میتواند روی Termux اجرا شود.
+
+
+
+داخل xary ایران :
+
+
+![image](https://github.com/user-attachments/assets/4ed97084-9ccd-4570-b297-c0f1364d325a)
