@@ -38,3 +38,30 @@ bash <(curl -fsSL https://raw.githubusercontent.com/3aeidkhalili/FragmentScanner
 
 
 ![image](https://github.com/user-attachments/assets/4ed97084-9ccd-4570-b297-c0f1364d325a)
+
+
+      "mux": {
+        "enabled": true,
+        "concurrency": 8,
+        "xudpConcurrency": 8,
+        "xudpProxyUDP443": "reject"
+      }
+    },
+    {
+      "tag": "fragment",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs",
+        "fragment": {
+          "packets": "1-1",
+          "length": "1-3",
+          "interval": "5"
+        }
+      },
+      "streamSettings": {
+        "sockopt": {
+          "tcpNoDelay": true,
+          "tcpKeepAliveIdle": 100
+        }
+      }
+    },
