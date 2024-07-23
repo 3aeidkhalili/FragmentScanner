@@ -2,7 +2,7 @@ Install
 
 bash <(curl -fsSL https://raw.githubusercontent.com/3aeidkhalili/FragmentScanner/main/install.sh)
 
-28
+
 
     پشتیبانی از پروتکل‌های
     VLESS WS/GRPC
