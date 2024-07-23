@@ -8,7 +8,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/3aeidkhalili/FragmentScanner
     VLESS WS/GRPC
     VMESS WS/GRPC
     TROJAN WS/GRPC
-
+مقدار بعد از اتمام مراحل بصورت فایل json ذخیره میشود بعد همون مقدار فرگمنت را میتوانید داخل پروتکل های زیر بصورت پنل به پنل بزنید:
     vless tcp server iran(xary)
     vmess tcp server iran(xary)
 
